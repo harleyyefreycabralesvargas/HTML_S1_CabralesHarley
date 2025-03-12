@@ -1,7 +1,9 @@
+
 .cuadroprincipal{
     display: flex;
     background-color: white;
     border: 5px solid black;
+    justify-content: center;
 }
 .colm11{
     margin-left: 15px;
