@@ -15,12 +15,21 @@ Deberas ejecutar este comando para descargar
 
 ```
 1. Deberas ubicarte en un lugar en los archivos y abrirlo en terminal
-2. ya en la terminal deberas ejecutar el siguiente comando: git init && git clone https://github.com/harleyyefreycabralesvargas/HTML_S1_CabralesHarley/tree/master/Dia%203
+3. Abre la carpeta en visual studio code
+4. En visual estudio code intalamos la extencion "Live server"
+5. Nos paramos Dia 3/Index.html y ejecutar "Alt+l+o"
 
 ```
 
-### Como se juega 
-![imagen gato](./gato.png)
+### Como se usa
+1. Visual estudio code
+1.1. Abre la carpeta en visual studio code
+1.2. En visual estudio code intalamos la extencion "Live server"
+1.3. Nos paramos Dia 3/Index.html y ejecutar "Alt+l+o"
+2. Github
+2.1. Se usara este link
+
+
 1. [Carpeta imagenes](imagenes) acá se hizo el trabajo de subir las imagenes que se utilizaran para hacer la hoja de vida
 1.1. [Diploma de bachiller](diploma.jpeg) foto de mi diploma de bachiller
 1.2. [Foto mía](foto_hoja_de_vida.jpeg) foto que utilizare para mi foto personal
