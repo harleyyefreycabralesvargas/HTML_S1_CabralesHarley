@@ -67,3 +67,7 @@
 .columna{
     border:5px solid rgb(2, 2, 2);
 }
+.cuadroprincipal{
+    border: 5px solid rgb(16, 16, 16);
+    margin: 50px 365px 50px 50px;
+}
