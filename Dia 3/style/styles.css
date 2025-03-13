@@ -4,46 +4,10 @@
     border: 5px solid black;
     justify-content: center;
 }
-.colm11{
-    margin-left: 15px;
-
-}
 #fotomia{
     border-radius: 50%;
     border:5px solid black;
     margin-left: 35px;
-}
-.colm12{
-    background-color: white;
-    margin: 5px;
-    border: 5px solid black;
-    padding: 25px;
-}
-.colm13{
-    background-color: white;
-    margin: 5px;
-    border: 5px solid black;
-    padding: 25px;
-}
-.colm21{
-    background-color: white;
-    margin: 5px;
-    border: 5px solid black;
-    padding: 25px
-}
-.colm22{
-    background-color: white;
-    margin: 5px;
-    border: 5px solid black;
-    padding: 25px;
-    height: 610px;
-}
-.colm31{
-    background-color: white;
-    margin: 5px;
-    border: 5px solid black;
-    padding: 25px;
-    height: 981px;
 }
 .body{
     display: flex;

@@ -1,6 +1,13 @@
 # Dia 3
 Este archivo es la guía para navegar el el día 3 de html
 
+|                |CONTENIDO                         |DESCRIPCION                             |
+|------------------|------------------------------------|-----------------------------------|
+|Imágenes|`Fotos que se usaran en la hoja de vida`            |En esta carpeta estan alamacenadas el contenido multimedia que se utilizara para la hoja de vida         |
+|Styles         |`Diseño de la hoja de vida`            |En esta carpeta estan los estilos con los que se dará el diseño a la hoja de vida          |
+|Index         |`Correcion de la hoja de vida`|En este archivo esta la estructura de la hoja de vida corregida usando tablas con html y css
+|
+
 1. [Carpeta imagenes](imagenes) acá se hizo el trabajo de subir las imagenes que se utilizaran para hacer la hoja de vida
 1.1. [Diploma de bachiller](diploma.jpeg) foto de mi diploma de bachiller
 1.2. [Foto mía](foto_hoja_de_vida.jpeg) foto que utilizare para mi foto personal
