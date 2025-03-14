@@ -2,92 +2,55 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FORMULARIO DE REGISTRO</title>
+    <meta class="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de registro - Mi web</title>
     <link rel="stylesheet" href="./Style/Styles.css" />
 </head>
-<body>
-    <h1>Nombres</h1>
-<form name="formularios" method="post" action="">
-  <label for="nombre">Nombres:</label><br>
-  <input type="text" id="nombres" name="nombre" minlength="3" maxlength="50"><br>
-  <label for="apellido"> Apellidos:</label><br>
-  <input type="text" id="apellido" name="apellido"><br><br>
+<body>  
+<table class="form">
+    <tr>
+        <td class="titulo">
+            <PRE><h1>FORMULARIO 
+DE 
+REGISTRO</h1></PRE>
+        </td>
+    </tr>
+    <tr>
+        <td class="formu">
+            <pre><form class="formularios"method="post" action=""><label for="nombre"><b>Nombres:</b></label>
+<input type="text"  class="nombre" maxlength="50">
 
-  <br>
-<br>
-<br>
-<h1>Tipo de sexo</h1>
-<select sexo="sexo" id="sexo">
-    <label for="sexo">SEXO</label>
+<label for="apellido"><b>Apellidos:</b></label>
+<input type="text" class="apellido"  maxlength="50">
+
+<label for="sexo"><b>Sexo:</b></label>
+<select sexo="sexo" class="Sexo" >
     <option> Hombre</option>
     <option> Mujer</option>
 </select>
-<br>
-<br>
-<br>
-<h1>Correo electronico</h1>
-<label for="email" >Email:</label>
-<input type="email" id="email" name="email" placeholder="youremail@gamil.com">
-<br>
-<br>
-<br>
-<input type="checkbox" name="ofertas" id="ofertas" checked>
-<label for="ofertas" >Deseo recibir información sobre novedades y ofertas</label>
-<br>
-<br>
-<br>
-<input type="checkbox" name="condiciones" id="condicones" >
-<label for="condiciones" >Declaro haber leído y aceptar las condiciones generales del programa y la normativa sobre protección de datos</label>
 
-<br>
-<br>
-<br>
-<status>
-<h1>Poblacion</h1>
-<select Poblacion="Poblacion" id="Poblacion">
-    <label for="Poblacion">Poblacion</label>
+<label for="email" ><b>Correo electronico:</b></label>
+<input type="email" class="email" placeholder="tu_email@gmail.com">
+
+<input type="checkbox" class="ofertas" checked><label for="ofertas">Deseo recibir información 
+sobre novedades y ofertas</label>
+
+<input type="checkbox" class="condiciones" ><label for="condiciones" >Declaro haber leído y 
+aceptado las condiciones 
+generales del programa y 
+la normativa sobre 
+protección de datos</label>
+
+<label for="Poblacion"><b>Poblacion:</b></label>
+<select Poblacion="Poblacion" class="Poblacion" >
     <option> Bucaramnaga</option>
     <option> Giron</option>
     <option> Floridablanca</option>
     <option>Piedecuesta</option>
-</select>
-</status>
-<br>
-<br>
-<br>
-<input type="submit" value="Compleado">
-</form> 
-
-
-
-
-<p>Si presionas compleado te redigira</p>
-
-
-  
-<table class="form">
-    <tr>
-        <td class="cdddd">
-            gfgg 
-        b</td>
-    </tr>
-
-    <tr>
-        <td class="form">
-            <form name="formularios" method="post" action="">
-            <label for="nombre">Nombres:</label>
-            <input type="text" id="nombres" name="nombre" minlength="3" maxlength="50">
+</select></pre>
         </td>
-        <tr>
-            </td>
-            </tr>
-            <td>
-                <label for="apellido"> Apellidos:</label><br>
-                <input type="text" id="apellido" name="apellido"><br><br>
-            </td>
-        </tr>
-        </table>
+    </tr>
+</table>
+<input type="submit" value="                    ENVIAR                     ">
 </body>
-
 </html>

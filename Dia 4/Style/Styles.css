@@ -1,35 +1,12 @@
-
-#fotomia{
-    border-radius: 50%;
-    border:5px solid black;
-    margin-left: 35px;
-}
 .body{
     display: flex;
 }
-#fotodip1{
-    height: 120px;
-    width: 120px;
-}
-#fotodip2{
-    height: 120px;
-    width: 120px;
-}
-#fotodip3{
-    height: 120px;
-    width: 120px;
-}
-#fotodip4{
-    height: 120px;
-    width: 120px;
-}
-.columna{
-    border:5px solid rgb(2, 2, 2);
-}
-
 .form{
+    border: 2px solid rgb(0, 0, 0);
+}
+.titulo{
     border: 2px solid black;
 }
-.ee{
-    border: 2px solid black
+.formu{
+    border: 2px solid rgb(0, 0, 0);
 }
