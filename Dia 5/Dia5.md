@@ -1,5 +1,5 @@
-# Dia 4
-Este archivo es la guía para navegar el el día 4 de html
+# Dia 5
+Este archivo es la guía para navegar el el día 5 de html
 
 ### Tabla de contenidos
 
@@ -27,8 +27,8 @@ Deberas ejecutar este comando para descargar
 1.2. En visual estudio code intalamos la extencion "Live server"
 1.3. Nos paramos Dia 4/Index.html y ejecutar "Alt+L+O"
 ### Secciones
-1. [Style](Style) carpeta donde están los estilos a usar en el html
-1.1. [Estilos](Style/Styles.css) archivo donde se establecen los estilos a usar en el html
+1. [Estilos](Estilos) carpeta donde están los estilos a usar en el html
+1.1. [Styles](Estilos/Styles.css) archivo donde se establecen los estilos a usar en el html
 2. [Hoja de vida estructura html](index.html) acá esta el código en html con la estructura de la hoja de vida 
 ### Persona que lo realizo
 Hecho por [Harley Yefrey Cabrales Vargas](https://github.com/harleyyefreycabralesvargas)
