@@ -29,6 +29,6 @@ Deberas ejecutar este comando para descargar
 ### Secciones
 1. [Estilos](Estilos) carpeta donde están los estilos a usar en el html
 1.1. [Styles](Estilos/Styles.css) archivo donde se establecen los estilos a usar en el html
-2. [Hoja de vida estructura html](index.html) acá esta el código en html con la estructura de la hoja de vida 
+2. [Hoja de vida estructura html](index.html) acá esta el código en html con la estructura  la hoja de vida 
 ### Persona que lo realizo
 Hecho por [Harley Yefrey Cabrales Vargas](https://github.com/harleyyefreycabralesvargas)
