@@ -29,6 +29,6 @@ Deberas ejecutar este comando para descargar
 ### Secciones
 1. [Style](Style) carpeta donde están los estilos a usar en el html
 1.1. [Estilos](Style/Styles.css) archivo donde se establecen los estilos a usar en el html
-2. [Hoja de vida estructura html](index.html) acá esta el código en html con la estructura de la hoja de vida 
+2. [Hoja de vida estructura html](index.html) acá esta el código en html con la estructura del formulario de registro
 ### Persona que lo realizo
 Hecho por [Harley Yefrey Cabrales Vargas](https://github.com/harleyyefreycabralesvargas)
