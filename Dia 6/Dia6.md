@@ -27,7 +27,7 @@ Deberás ejecutar este comando para descargar
 1.3. Nos paramos Dia 6/Index.html y ejecutar "Alt+L+O"
 ### Secciones
 1. [Estilos](Estilos) carpeta donde están los estilos y el contenido multimedia a usar en el html
-1.1.[Imagenes](Imagenes) carpeta donde estan las imagenes a usar en el archivo html
+1.1.[Imagenes](Estilos/Imagenes) carpeta donde estan las imagenes a usar en el archivo html
 1.2. [Styles](Estilos/Styles.css) archivo donde se establecen los estilos a usar en el html
 2. [PruebaGrupal_CL](Index.html) acá esta el código en html con la estructura  de la pagina web de prime vídeo corregida
 ### Persona que lo realizo

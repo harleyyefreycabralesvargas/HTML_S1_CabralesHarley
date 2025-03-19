@@ -29,7 +29,7 @@ Deberás ejecutar este comando para descargar
 1.2. En visual estudio code intalamos la extencion "Live server"
 1.3. Nos paramos Dia 7/Index.html y ejecutar "Alt+L+O"
 ### Secciones
-1. [Estilos](Estilos) carpeta donde están los estilos y el contenido multimedia a usar en el html
+1. [Estilos](Style) carpeta donde están los estilos y el contenido multimedia a usar en el html
 1.1.[Imagenes](Style/Imagenes) carpeta donde están las imágenes a usar en el archivo html
 1.2. [Styles](Style/Styles/Style.css) archivo donde se establecen los estilos a usar en el html
 2.  [Letras](letras) acá están los tipos de letra que se utilizaron en los index
