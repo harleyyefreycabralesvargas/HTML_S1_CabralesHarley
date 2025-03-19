@@ -6,7 +6,7 @@ Este archivo es la guía para navegar el el día 6 de html
 |                |CONTENIDO                         |DESCRIPCION                             |
 |------------------|------------------------------------|-----------------------------------|
 |Imagenes|`Archivos multimedia`|En esta carpeta estan las fotos que se utilizaron en la elaboracion del index
-|Styles         |`Diseño del formulario`            |En esta carpeta estan los estilos con los que se dará el diseño a la hoja de vida          |
+|Styles         |`Diseño del formulario`            |En esta carpeta estan los estilos con los que se dará el diseño de la pagina web de prime video          |
 |Index         |`Pagina prime video en html corregida`|En este archivo esta la estructura de la pagina web de prime vídeo corregida
 ### Instalaciones 
 Deberás ejecutar este comando para descargar 

@@ -5,7 +5,7 @@ Este archivo es la guía para navegar el el día 4 de html
 
 |                |CONTENIDO                         |DESCRIPCION                             |
 |------------------|------------------------------------|-----------------------------------|
-|Styles         |`Diseño del formulario`            |En esta carpeta estan los estilos con los que se dará el diseño a la hoja de vida          |
+|Styles         |`Diseño del formulario`            |En esta carpeta estan los estilos con los que se dará el diseño al formulario    |
 |Index         |`Formulario en html`|En este archivo esta la estructura del formulario usando tablas con html y css
 |
 

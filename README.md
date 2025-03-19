@@ -9,6 +9,7 @@ En este documento se llevara la guía de toda la skill de html por días.
 |Dia 4          |`Formulario de registro`|En esta carpeta se evidencia la creación de un formulario usando html y css|
 |Dia 5| `Pagina web prime video`|En esta carpeta se evidencia la creación de una pagina web de prime vídeo
 |Dia 6| `Pagina web prime video corregida`|En esta carpeta se evidencia la correccion de la pagina web de prime vídeo
+|Dia 7|`Pagina web metrolinea`|En esta carpeta se evidencia la creacion de una pagina web para la tarjeta de Metrolinea
 ### Instalaciones 
 ```
 1. Deberas ubicarte en un lugar en los archivos y abrirlo en terminal
@@ -32,6 +33,7 @@ En este documento se llevara la guía de toda la skill de html por días.
 4. [Dia 4](Dia%204) En esta carpeta esta todo lo que se hizo en el día 4 de html
 5. [Dia 5](Dia%205) En esta carpeta esta todo lo que se hizo en el día 5 de html
 6. [Dia 6](Dia%206) En esta carpeta esta todo lo que se hizo en el día 6 de html
+7.  [Dia 7](Dia%207) En esta carpeta esta todo lo que se hizo en el día 7 de html
 ### Persona que lo realizo
 
   
