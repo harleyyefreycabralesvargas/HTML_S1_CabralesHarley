@@ -7,8 +7,7 @@ Este archivo es la guía para navegar el el día 2 de html
 |------------------|------------------------------------|-----------------------------------|
 |Imágenes|`Fotos que se usaran en la hoja de vida`            |En esta carpeta estan alamacenadas el contenido multimedia que se utilizara para la hoja de vida         |
 |Styles         |`Diseño de la hoja de vida`            |En esta carpeta estan los estilos con los que se dará el diseño a la hoja de vida con css         |
-|Index         |`Correcion de la hoja de vida`|En este archivo esta la estructura de la hoja de vida
-con html y css
+|Index         |`Correcion de la hoja de vida`|En este archivo esta la estructura de la hoja de vida con html y css
 
 ### Instalaciones 
 Deberas ejecutar este comando para descargar 
