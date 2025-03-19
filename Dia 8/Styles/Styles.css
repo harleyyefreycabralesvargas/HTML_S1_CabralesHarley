@@ -1,0 +1,84 @@
+@font-face {
+    font-family: "letra1";
+    src: url(../Letras/PlayfairDisplay-Black.ttf);
+}
+@font-face {
+    font-family: "letra2";
+    src: url(../Letras/Barlow-Bold.ttf);
+}
+@font-face {
+    font-family: "letra3";
+    src: url(../Letras/open-sauce.one-semibold.ttf);
+}
+.body{
+    background-color: black;
+}
+.fondo{
+    position: absolute;
+    display: flex;
+    width: 1920px;
+    height: 1220px;
+
+}
+.letricas11{
+    margin: -40px 2px 3px 250px;
+}
+.letricas12{
+    margin: 30px 2px 3px 1200px;
+
+}
+.tletra_1{
+    font-family:"letra2" ;
+    font-size: 25px;
+    position: absolute;
+    color: white;
+}
+.letra_10{
+    font-family: "letra3";
+    font-size: 20px;
+    position: absolute;
+    color: white;
+}
+.letra_11{
+    font-family: "letra3";
+    font-size: 20px;
+    position: absolute;
+    color: white;
+    margin-left: 120px;
+}
+.letra_12{
+    font-family: "letra3";
+    font-size: 20px;
+    position: absolute;
+    color: white;
+    margin-left: 240px;
+}
+.letra_13{
+    font-family: "letra3";
+    font-size: 20px;
+    position: absolute;
+    color: white;
+    margin-left: 360px;
+}
+.letra_10,.letra_11,.letra_12,.letra_13,.fffff:hover {
+
+    border-bottom: 2px solid #ce9e5a;
+}
+.tletra_2{
+    font-family: "letra1";
+    font-size: 35px;
+    position: absolute;
+    align-content: center;
+    align-items: center;
+    color: white;
+    margin: 200px 2px 2px 640px;
+}
+.tletra_3{
+    font-family: "letra1";
+    font-size: 35px;
+    position: absolute;
+    align-content: center;
+    align-items: center;
+    color: white;
+    margin: 900px 2px 2px 640px;
+}
