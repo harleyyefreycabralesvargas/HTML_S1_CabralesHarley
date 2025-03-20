@@ -318,3 +318,46 @@
     color: #ce9e5a ;
     margin: -17px 0px 0px 875px;
 }
+.gradiente{
+    position: relative;
+    margin: 100px 90px 60px 0px;
+    display: flex;
+    width: 1920px;
+    height: 1080px;
+    background: transparent linear-gradient(to right,#f02121  ,#00700f) 0% 0% no-repeat padding-box;
+}
+.no{
+    width: 600px;
+    margin: 50px 90px 0px 0px;
+    margin-left: -1300px;
+    position: absolute;
+}
+.mal{
+    height: 600px;
+    margin: 170px 10px 10px -1300px;
+    position: absolute;
+}
+.negro{
+    width: 1920px;
+    height: 900px;
+    background-color: black;
+    position: absolute;
+
+}
+.titulo{
+    font-family: "letra2";
+    font-size: 40px;
+    width: 800px;
+    color: white;
+    margin: -90px 10px 10px 33%;
+}
+.si{
+    width: 600px;
+    margin: 50px 0px 0px -330px;
+    margin-left: -330px;
+}
+.pedro_feliz{
+    height: 600px;
+    margin: 50px 0px 0px -330px;
+
+}
