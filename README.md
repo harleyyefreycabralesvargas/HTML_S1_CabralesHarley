@@ -29,14 +29,14 @@ En este documento se llevara la guía de toda la skill de html por días.
 
 
 ### Secciones
-1. [Dia 1](https://github.com/harleyyefreycabralesvargas/HTML_S1_CabralesHarley/tree/master/Dia%201) En esta carpeta esta todo lo que se llevo acabo en el dia 1
-2. [Dia 2](https://github.com/harleyyefreycabralesvargas/HTML_S1_CabralesHarley/tree/master/Dia%202) En esta carpeta esta todo lo que se llevo acabo en el día 2
-3. [Dia 3](Dia%203) En esta carpeta esta todo lo que se hizo en el día 3 de html
-4. [Dia 4](Dia%204) En esta carpeta esta todo lo que se hizo en el día 4 de html
-5. [Dia 5](Dia%205) En esta carpeta esta todo lo que se hizo en el día 5 de html
-6. [Dia 6](Dia%206) En esta carpeta esta todo lo que se hizo en el día 6 de html
-7.  [Dia 7](Dia%207) En esta carpeta esta todo lo que se hizo en el día 7 de html
-8.  [Dia 8](Dia%208) En esta carpeta esta todo lo que se hizo en el día 8 de html
+1. [Dia 1](https://github.com/harleyyefreycabralesvargas/HTML_S1_CabralesHarley/tree/master/Dia201) En esta carpeta esta todo lo que se llevo acabo en el dia 1
+2. [Dia 2](https://github.com/harleyyefreycabralesvargas/HTML_S1_CabralesHarley/tree/master/Dia202) En esta carpeta esta todo lo que se llevo acabo en el día 2
+3. [Dia 3](Dia203) En esta carpeta esta todo lo que se hizo en el día 3 de html
+4. [Dia 4](Dia204) En esta carpeta esta todo lo que se hizo en el día 4 de html
+5. [Dia 5](Dia205) En esta carpeta esta todo lo que se hizo en el día 5 de html
+6. [Dia 6](Dia206) En esta carpeta esta todo lo que se hizo en el día 6 de html
+7.  [Dia 7](Dia207) En esta carpeta esta todo lo que se hizo en el día 7 de html
+8.  [Dia 8](Dia208) En esta carpeta esta todo lo que se hizo en el día 8 de html
 ### Persona que lo realizo
 
   
