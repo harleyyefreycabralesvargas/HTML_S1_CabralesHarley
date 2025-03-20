@@ -1,0 +1,430 @@
+@font-face {
+    font-family: "letra1";
+    src: url(../Letras/PlayfairDisplay-Black.ttf);
+}
+
+@font-face {
+    font-family: "letra2";
+    src: url(../Letras/Barlow-Bold.ttf);
+}
+
+@font-face {
+    font-family: "letra3";
+    src: url(../Letra18open-sauce.one-semibold.ttf);
+}
+
+.body {
+    background-color: black;
+    position: relative;
+}
+
+.fondo {
+    position: absolute;
+    display: flex;
+    width: 1920px;
+    height: 1220px;
+}
+
+.letricas11 {
+    margin: -40px 2px 3px 250px;
+}
+
+.letricas12 {
+    margin: 30px 2px 3px 1200px;
+}
+
+.tletra_1 {
+    font-family: "letra2";
+    font-size: 25px;
+    position: absolute;
+    color: white;
+}
+
+.letra_10 {
+    font-family: "letra3";
+    font-size: 18px;
+    position: absolute;
+    color: white;
+}
+
+.letra_11 {
+    font-family: "letra3";
+    font-size: 18px;
+    position: absolute;
+    color: white;
+    margin-left: 120px;
+}
+
+.letra_12 {
+    font-family: "letra3";
+    font-size: 18px;
+    position: absolute;
+    color: white;
+    margin-left: 240px;
+}
+
+.letra_13 {
+    font-family: "letra3";
+    font-size: 18px;
+    position: absolute;
+    color: white;
+    margin-left: 360px;
+}
+
+.letra_10:hover {
+    border-bottom: 2px solid #ce9e5a;
+}
+
+.letra_11:hover {
+    border-bottom: 2px solid #ce9e5a;
+}
+
+.letra_12:hover {
+    border-bottom: 2px solid #ce9e5a;
+}
+
+.letra_13:hover {
+    border-bottom: 2px solid #ce9e5a;
+}
+
+.tletra_2 {
+    font-family: "letra1";
+    font-size: 35px;
+    position: absolute;
+    align-content: center;
+    align-items: center;
+    color: white;
+    margin: 200px 2px 2px 640px;
+}
+
+.tletra_3 {
+    font-family: "letra1";
+    font-size: 35px;
+    position: absolute;
+    align-content: center;
+    align-items: center;
+    color: white;
+    margin: 900px 2px 2px 640px;
+}
+
+.cuadrito1 {
+    background-color: #ce9e5a;
+    position: absolute;
+    margin: 1100px 2px 2px 900px;
+    border: 1px black;
+    padding: 10px 40px 10px 40px;
+}
+
+.shop_now {
+    font-family: "letra2";
+    text-decoration: none;
+    color: black;
+}
+
+.abajo {
+    height: 3000px;
+    background-color: black;
+}
+
+/* imagenes*/
+.img1 {
+    position: absolute;
+    margin: 1400px 10px 20px 0px;
+}
+
+.img2 {
+    position: absolute;
+    margin: 2000px 10px 20px 1100px;
+    height: 400px;
+}
+
+/*textos*/
+.raya {
+    width: 100px;
+    height: 3px;
+    position: absolute;
+    margin: 1540px 10px 20px 980px;
+    background-color: gray;
+}
+
+.our_story {
+    color: white;
+    font-family: "letra1";
+    font-size: 25px;
+    position: absolute;
+    margin: 1470px 2px 3px 1100px;
+    display: inline-block;
+    text-transform: capitalize;
+}
+
+.our_story::first-letter {
+    font-size: 4 60px;
+    font-size: 60px;
+    text-transform: uppercase;
+}
+
+.tour_story {
+    color: rgb(200, 198, 198);
+    font-family: "letra2";
+    font-size: 15px;
+    position: absolute;
+    margin: 1590px 2px 3px 1100px;
+    word-spacing: 4px;
+}
+
+.cuadrito2 {
+    background-color: #ce9e5a;
+    position: absolute;
+    margin: 1700px 2px 2px 1100px;
+    border: 1px black;
+    padding: 10px 40px 10px 40px;
+}
+
+.learn_more {
+    font-family: "letra2";
+    text-decoration: none;
+    color: black;
+}
+
+.perfect {
+    position: absolute;
+    margin: 1900px 10px 20px 0px;
+    color: white;
+}
+
+.perfect {
+    color: white;
+    font-family: "letra1";
+    font-size: 40px;
+    position: absolute;
+    margin: 2060px 2px 3px 100px;
+    display: inline-block;
+    text-transform: capitalize;
+    line-break: break-all;
+    overflow-wrap: scroll;
+    width: 350px;
+}
+
+.perfect::first-letter {
+    font-size: 45px;
+    text-transform: uppercase;
+}
+
+.tperfect {
+    color: rgb(200, 198, 198);
+    font-family: "letra2";
+    font-size: 15px;
+    position: absolute;
+    margin: 2220px 2px 3px 100px;
+    word-spacing: 4px;
+}
+
+.cuadrito3 {
+    background-color: #ce9e5a;
+    position: absolute;
+    margin: -30px 2px 2px 0px;
+    border: 1px black;
+    padding: 10px 40px 10px 40px;
+}
+
+.products {
+    text-transform: capitalize;
+    text-transform: uppercase;
+    font-family: "letra1";
+    font-size: 50px;
+    color: white;
+    margin: 160px 30px 20px -50px;
+}
+
+.products::first-letter {
+    font-size: 120px;
+    text-transform: uppercase;
+}
+
+.cuadro1 {
+    border: 2px solid #ce9e5a;
+    margin: 10px 20px 30px 30px;
+    width: 350px;
+}
+
+.cuadrito_4 {
+    background-color: #ce9e5a;
+    position: absolute;
+    margin: -30px 2px 2px 100px;
+    border: 1px black;
+    padding: 10px 40px 10px 40px;
+}
+
+.imgcuadro1 {
+    width: 100px;
+    margin: -70px 0px 0px 0px;
+}
+
+.cuadro2 {
+    border: 2px solid #ce9e5a;
+    font-family: "letra1";
+    margin: -532px 20px 30px 600px;
+    position: absolute;
+    width: 350px;
+    height: 463px;
+}
+
+.cuadrito_5 {
+    background-color: #ce9e5a;
+    position: absolute;
+    margin: -30px 10px 10px 100px;
+    border: 1px black;
+    padding: 10px 40px 10px 40px;
+}
+
+.imgcuadro2 {
+    width: 100px;
+    margin: -70px 20px 20px 0px;
+}
+
+.cuadro3 {
+    border: 2px solid #ce9e5a;
+    margin: -550px 20px 30px 1200px;
+    position: absolute;
+    width: 350px;
+    height: 463px;
+}
+
+.cuadrito_6 {
+    background-color: #ce9e5a;
+    position: absolute;
+    margin: -30px 10px 10px 85px;
+    border: 1px black;
+    padding: 10px 40px 10px 40px;
+}
+
+.imgcuadro3 {
+    width: 100px;
+    margin: -70px 20px 20px 0px;
+}
+
+.raya2 {
+    width: 550px;
+    height: 3px;
+    position: absolute;
+    margin: 0px 10px 20px 500px;
+    background-color: #ce9e5a;
+    align-items: center;
+    align-content: center;
+}
+
+.lc3 {
+    font-family: "letra2";
+}
+
+.about {
+    font-family: "letra2";
+    margin: 20px 29px 30px 330px;
+}
+
+.aus {
+    margin: -65px 29px 30px 420px;
+    color: #ce9e5a
+}
+
+.tab {
+    margin: -30px 29px 30px 250px;
+}
+
+.contact {
+    font-family: "letra2";
+    margin: -236px 29px 30px 680px;
+}
+
+.cus {
+    margin: -66px 29px 30px 795px;
+    color: #ce9e5a
+}
+
+.tco {
+    margin: -37px 29px 30px 600px;
+}
+
+.opening {
+    font-family: "letra2";
+    margin: -274px 29px 30px 990px;
+}
+
+.oho {
+    margin: -65px 29px 30px 1110px;
+    color: #ce9e5a
+}
+
+.top {
+    margin: -37px 29px 30px 950px;
+}
+
+.raya3 {
+    width: 550px;
+    height: 3px;
+    position: absolute;
+    margin: 0px 10px 20px 500px;
+    background-color: #ce9e5a;
+    align-items: center;
+    align-content: center;
+}
+
+.copy {
+    font-family: "letra2";
+    margin: 0px 0px 0px 620px;
+}
+
+.ultimo {
+    color: #ce9e5a;
+    margin: -17px 0px 0px 875px;
+}
+
+.gradiente {
+    position: relative;
+    margin: 100px 90px 60px 0px;
+    display: flex;
+    width: 1920px;
+    height: 1080px;
+    background: transparent linear-gradient(to right, #f02121, #00700f) 0% 0% no-repeat padding-box;
+}
+
+.no {
+    width: 600px;
+    margin: 50px 90px 0px 0px;
+    margin-left: -1300px;
+    position: absolute;
+}
+
+.mal {
+    height: 600px;
+    margin: 170px 10px 10px -1300px;
+    position: absolute;
+}
+
+.negro {
+    width: 1920px;
+    height: 900px;
+    background-color: black;
+    position: absolute;
+
+}
+
+.titulo {
+    font-family: "letra2";
+    font-size: 40px;
+    width: 800px;
+    color: white;
+    margin: -90px 10px 10px 33%;
+}
+
+.si {
+    width: 600px;
+    margin: 50px 0px 0px -330px;
+    margin-left: -330px;
+}
+
+.pedro_feliz {
+    height: 600px;
+    margin: 50px 0px 0px -330px;
+
+}
