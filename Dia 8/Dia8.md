@@ -32,7 +32,7 @@ Deberás ejecutar este comando para descargar
 1.1.[Imagenes](Styles/Imagenes) carpeta donde están las imágenes a usar en el archivo html
 1.2. [Styles](Styles/Styles.css) archivo donde se establecen los estilos a usar en el html
 2.  [Letras](Letras) acá están los tipos de letra que se utilizaron en el index
-3.  [Index](Index.html) acá esta el código en html con la estructura  de la pagina web del cafe
+3.  [Index](index.html) acá esta el código en html con la estructura  de la pagina web del cafe
 
 ### Persona que lo realizo
 Hecho por [Harley Yefrey Cabrales Vargas](https://github.com/harleyyefreycabralesvargas)
