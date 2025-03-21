@@ -33,7 +33,7 @@
     margin: 30px 2px 3px 1200px;
 }
 
-.tletra_1 {
+#tletra_1 {
     font-family: "letra2";
     font-size: 25px;
     position: absolute;
@@ -41,14 +41,14 @@
 }
 
 .letra_10 {
-    font-family: "letra3";
+    font-family: "letra2";
     font-size: 18px;
     position: absolute;
     color: white;
 }
 
 .letra_11 {
-    font-family: "letra3";
+    font-family: "letra2";
     font-size: 18px;
     position: absolute;
     color: white;
@@ -56,7 +56,7 @@
 }
 
 .letra_12 {
-    font-family: "letra3";
+    font-family: "letra2";
     font-size: 18px;
     position: absolute;
     color: white;
@@ -64,7 +64,7 @@
 }
 
 .letra_13 {
-    font-family: "letra3";
+    font-family: "letra2";
     font-size: 18px;
     position: absolute;
     color: white;
