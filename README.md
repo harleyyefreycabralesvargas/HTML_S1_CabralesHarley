@@ -11,6 +11,7 @@ En este documento se llevara la guía de toda la skill de html por días.
 |Dia 6| `Pagina web prime video corregida`|En esta carpeta se evidencia la correccion de la pagina web de prime vídeo
 |Dia 7|`Pagina web metrolinea`|En esta carpeta se evidencia la creacion de una pagina web para la tarjeta de Metrolinea
 |Dia 8|`Pagina web cafe`|En esta carpeta se evidencia la creacion de una pagina web de cafes
+|Dia 9|`Pagina web cafe corregida`|En esta carpeta se evidencia la correcion de la pagina web del cafe
 
 ### Instalaciones 
 ```
@@ -37,6 +38,7 @@ En este documento se llevara la guía de toda la skill de html por días.
 6. [Dia 6](Dia6) En esta carpeta esta todo lo que se hizo en el día 6 de html
 7.  [Dia 7](Dia7) En esta carpeta esta todo lo que se hizo en el día 7 de html
 8.  [Dia 8](Dia8) En esta carpeta esta todo lo que se hizo en el día 8 de html
+9.  [Dia 9](Dia9) En esta carpeta esta todo lo que se hizo en el día 9 de html
 ### Persona que lo realizo
 
   
