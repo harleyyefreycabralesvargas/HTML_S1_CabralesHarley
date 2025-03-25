@@ -1,5 +1,5 @@
-# Dia 9
-Este archivo es la guía para navegar el el día 9 de html
+# Dia 10
+Este archivo es la guía para navegar el el día 10 de html
 
 ### Tabla de contenidos
 
@@ -19,7 +19,7 @@ Deberás ejecutar este comando para descargar
 2. Escribimos el siguiente comando "git init && git clone https://github.com/harleyyefreycabralesvargas/HTML_S1_CabralesHarley"
 3. Abre la carpeta en visual studio code
 4. En visual estudio code intalamos la extencion "Live server"
-5. Nos paramos Dia 9/index.html y ejecutar "Alt+L+O"
+5. Nos paramos Dia 10/index.html y ejecutar "Alt+L+O"
 
 ```
 
@@ -27,7 +27,7 @@ Deberás ejecutar este comando para descargar
 1. Visual estudio code
 1.1. Abre la carpeta en visual studio code
 1.2. En visual estudio code intalamos la extencion "Live server"
-1.3. Nos paramos Dia 9/Index.html y ejecutar "Alt+L+O"
+1.3. Nos paramos Dia 10/Index.html y ejecutar "Alt+L+O"
 ### Secciones
 1. [Estilos](Styles) carpeta donde están los estilos y el contenido multimedia a usar en el html
 1.1.[Imagenes](Styles/Imagenes) carpeta donde están las imágenes a usar en el archivo html

@@ -1,0 +1,39 @@
+
+.cuadro11{
+    height: 0px;
+    padding: 20px;
+    grid-area: cuadro11;
+}
+.img11{
+    height: 800px;
+}
+.cuadro12{
+    grid-area: cuadro12;
+}
+.cuadro13{
+    grid-area: cuadro13;
+}
+.img13{
+    height: 800px;
+
+}
+.cuadro14{
+    grid-area: cuadro14;
+}
+.cuadro1{
+    display: grid;
+    grid-template:
+    'cuadro11 cuadro13'
+    'cuadro12 cuadro13'
+    'cuadro14 cuadro14';
+    grid-gap: 10px ;
+    background-color: #000000;
+    padding: 10px;
+    
+}
+.grid-cuadro1 > div {
+    background-color: rgba(199, 27, 27, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
