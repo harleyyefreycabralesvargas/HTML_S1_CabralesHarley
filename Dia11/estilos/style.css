@@ -107,6 +107,7 @@
     column-gap: 0px;
     row-gap: 20px;
     width: 960px;
+    border-radius: 16px;
 }
 */
 .grid-cuadro1 > div {
@@ -138,6 +139,7 @@
     column-gap: 0px;
     row-gap: 20px;
     width: 940px;
+    border-radius: 16px;
     
 }
 
