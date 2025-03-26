@@ -6,7 +6,7 @@ Este archivo es la guía para navegar el el día 11 de html
 |                |CONTENIDO                         |DESCRIPCION                             |
 |------------------|------------------------------------|-----------------------------------|
 |Style.css         |`Diseño del formulario`            |En esta carpeta están los estilos con los que se dará el diseño al index         
-|index.html         |`Pagina web de cafe`|En este archivo esta la estructura de la pagina web de De-Extinction
+|index.html         |`Pagina web De-Extinction`|En este archivo esta la estructura de la pagina web de De-Extinction
 ### Instalaciones 
 Deberás ejecutar este comando para descargar 
 
