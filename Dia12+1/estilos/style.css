@@ -1,13 +1,144 @@
 html,body{
-    width: 1000vw;
-    height: 1000vw;
+    width: 300vw;
+    height: 100vw;
 }
-
 .fondo{
     width: 100vw;
     height: 70vw;
+    position: absolute;
 }
-@keyframes movebg{
-    0%{background-position: 550px;}
-    100%{background-position: 0px;}
+.sol{
+    position:absolute;
+    left: 62vw;
+    width: 19vw;
+    height: 20vw;
+    animation: sol 20s linear ;
+}
+.nube{
+    opacity: 0%;
+    top: 7vw;
+    position:absolute;
+    width: 50vw;
+    height: 20vw;
+    animation: nube 20s linear ;
+}
+.gotas1{
+    opacity: 0%;
+    top: 24vw;
+    position:absolute;
+    width: 12vw;
+    height: 7vw;
+    animation: gotas1 0.31s linear ;
+    animation-delay: 6s;
+    animation-iteration-count: 23;
+}
+.gotas2{
+    opacity: 0%;
+    top: 16vw;
+    position:absolute;
+    width: 18vw;
+    height: 9vw;
+    animation: gotas2 0.43s linear ;
+    animation-delay: 6s;
+    animation-iteration-count: 16;
+}
+.gotas3{
+    opacity: 0%;
+    top: 26vw;
+    position:absolute;
+    width: 9vw;
+    height: 6vw;
+    animation: gotas3 0.2s linear ;
+    animation-delay: 6s;
+    animation-iteration-count: 35;
+}
+.gotas4{
+    opacity: 0%;
+    top: 24vw;
+    position:absolute;
+    width: 15vw;
+    height: 8vw;
+    animation: gotas4 0.39s linear ;
+    animation-delay: 6s;
+    animation-iteration-count: 18;
+}
+.flor{
+    opacity: 0%;
+    top: 52vw;
+    left: 48vw;
+    position:absolute;
+    width: 15vw;
+    height: 20vw;
+    animation: flor 10s linear ;
+    animation-delay: 21s;
+}
+.marmotano{
+    opacity: 0%;
+    top: 50vw;
+    left: 48vw;
+    position:absolute;
+    width: 15vw;
+    height: 20vw;
+    animation: mano 7s linear ;
+    animation-delay: 24s;
+}
+.marmotaflo{
+    opacity: 0%;
+    top: 41vw;
+    left: 80vw;
+    position:absolute;
+    width: 0vw;
+    height: 0vw;
+    animation: maflo 7s linear ;
+    animation-delay: 31s;
+}
+@keyframes sol{
+    0%{opacity: 20%;}
+    90%{opacity: 20%;}
+    100%{opacity: 100%;}
+}
+@keyframes nube{
+    0%{left: 102vw;opacity: 100%;}
+    30%{left: 30vw;}
+    70%{left: 30vw;opacity: 100%;}
+    99%{left: -50vw;opacity: 100%;}
+    100%{left: -50vw; opacity: 0%;}
+}
+@keyframes gotas1{
+    0%{left: 36vw;opacity: 100%;top: 22vw;}
+    99%{left: 36vw; opacity: 100%;top: 63vw;}
+    100%{left: 36vw; opacity: 100%;top: 63vw;opacity: 0%;}
+}
+@keyframes gotas2{    
+    0%{left: 45vw;opacity: 100%;top: 12vw;}
+    99%{left: 45vw; opacity: 100%;top: 63vw;}
+    100%{left: 45vw; opacity: 100%;top: 63vw;opacity: 0%;}
+}
+@keyframes gotas3{
+    0%{left: 58vw;opacity: 100%;top: 34vw;}
+    99%{left: 58vw; opacity: 100%;top: 63vw;}
+    100%{left: 58vw; opacity: 100%;top: 63vw;opacity: 0%;}
+}
+@keyframes gotas4{
+    0%{left: 60vw;opacity: 100%;top: 14vw;}
+    99%{left: 60vw; opacity: 100%;top: 63vw;}
+    100%{left: 60vw; opacity: 100%;top: 63vw;opacity: 0%;}
+}
+@keyframes flor{
+    0%{left: 56vw;opacity: 100%;top: 68vw;height: 1vw;width: 1vw;}
+    30%{left: 48vw; opacity: 100%;top: 52vw;opacity: 100%;width: 15vw;height: 20vw;}
+    99%{opacity: 100%;}    
+    100%{opacity: 0%;}
+}
+@keyframes mano{
+    0%{left: 80vw;opacity: 100%;top: 41vw;height: 1vw;width: 1vw;}
+    90%{left: 48vw; opacity: 100%;top: 50vw;opacity: 100%;width: 15vw;height: 20vw;}
+    99%{opacity: 100%;}    
+    100%{opacity: 0%;}
+}
+@keyframes maflo{
+    0%{left: 48vw;opacity: 100%;top: 50vw;height: 20vw;width: 15vw;}
+    90%{left: 80vw; opacity: 100%;top: 41vw;opacity: 100%;width: 1vw;height: 1vw;}
+    99%{opacity: 100%;}
+    100%{opacity: 0%;}
 }
